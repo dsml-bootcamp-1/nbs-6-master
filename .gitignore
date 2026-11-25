@@ -10,3 +10,5 @@ s-603/mlruns/
 s-603/saved_models/
 s-603/requirements-churn.txt
 .env
+
+.venv
